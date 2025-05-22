@@ -9,6 +9,7 @@
 ' ##################################
 
 !define CONTAINER_BG_COLOR #438DD5
+!define TECHN_FONT_SIZE 12
 
 ' Styling
 ' ##################################
